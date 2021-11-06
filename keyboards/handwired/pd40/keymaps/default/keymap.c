@@ -41,13 +41,13 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [LEFT] = LAYOUT(
         KC_GRV,    KC_1,    KC_2,    KC_3,    KC_4,    KC_5,    KC_6,    KC_7,    KC_8,    KC_9,    KC_0,  KC_DEL,
        _______, XXXXXXX, KC_MUTE, KC_VOLD, KC_VOLU, XXXXXXX,  KC_EQL, KC_MINS, KC_LBRC, KC_RBRC, KC_BSLS, KC_QUOT,
-       _______, XXXXXXX, KC_MPRV, KC_MSTP, KC_MNXT, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, _______,
+       _______, XXXXXXX, KC_MPRV, KC_MSTP, KC_MNXT, XXXXXXX, XXXXXXX, XXXXXXX, _______, _______, _______, _______,
        _______, KC_LCTL, KC_LOPT, KC_LGUI, _______,  KC_SPC,  KC_SPC, _______, KC_HOME, KC_PGDN, KC_PGUP, KC_END
     ),
 
     [RIGHT] = LAYOUT(
        XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, DM_REC1, DM_REC2, XXXXXXX, XXXXXXX,  KC_INS,
-       KC_LCAP,   KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6, DM_PLY1, DM_PLY2, XXXXXXX, XXXXXXX, _______,
+       KC_CAPS,   KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6, DM_PLY1, DM_PLY2, XXXXXXX, XXXXXXX, _______,
        _______,   KC_F7,   KC_F8,   KC_F9,  KC_F10,  KC_F11,  KC_F12, DM_RSTP, XXXXXXX, XXXXXXX, XXXXXXX, _______,
        _______, KC_LCTL, KC_LOPT, KC_LGUI, _______,  KC_SPC,  KC_SPC, _______, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX
     ),
