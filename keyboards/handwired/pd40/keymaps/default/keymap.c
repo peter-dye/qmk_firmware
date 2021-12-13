@@ -23,7 +23,7 @@ enum layer_names {
     MOUSE
 };
 
-// Leaving in as exampl code
+// Leaving in as example code
 // Defines the keycodes used by our macros in process_record_user
 // enum custom_keycodes {
 //     QMKBEST = SAFE_RANGE,
