@@ -1,6 +1,6 @@
 # pd40
 
-![pd40](imgur.com image replace me!)
+![pd40](https://github.com/peter-dye/pd40-keyboard)
 
 The pd40 is a handwired low-profile ortholinear 40% keyboard. It uses Kailh choc switches and a custom designed 3D printed case. The pd40 also has bluetooth and a sizeable battery making it very portable.
 
